@@ -1,5 +1,6 @@
 # ATPGameScraper
-Python scraper for getting all games played by a specific ATP player or the top 50
+Python scraper for getting all games played by a specific ATP player or the top 50 players
+
 Data is getting scraped from the Official Site of Men's Professional Tennis www.atptour.com
 
 # Installation
